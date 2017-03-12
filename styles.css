@@ -1,0 +1,8 @@
+category-list > ol {
+	columns: 5;
+	list-style-type: none;
+}
+
+category-list > ol > li {
+	height: 3em;
+}
